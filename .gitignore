@@ -3,3 +3,11 @@
 ################################################################################
 
 /LLVolunteer-UserApi/.vs/LLVolunteer-UserApi/v16
+/LLVolunteer-UserApi/*/bin
+/LLVolunteer-UserApi/*/obj
+/LLVolunteer-UserApi/.vs
+/LLVolunteer-UserApi/*/*/obj
+/LLVolunteer-UserApi/*/*/bin
+/LLVolunteer-UserApi/*/*/*/obj
+/LLVolunteer-UserApi/*/*/*/bin
+/.vs

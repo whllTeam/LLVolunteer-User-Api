@@ -1,0 +1,13 @@
+﻿
+{
+  "profiles": {
+    "UserManager.API": {
+      "commandName": "Project",
+      "commandLineArgs": " ",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://*:5018"
+    }
+  }
+}
